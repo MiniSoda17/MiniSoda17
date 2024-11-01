@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
 <h3 align="center">SWE Intern @ Suncorp Group & Academic Tutor in Computer Science @ UQ</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minisoda17" alt="minisoda17" /></a> </p>
-
 - 🔭 I’m currently working on **my start up, 'Mewnie'**
 
 - 🌱 I’m currently learning **AWS, Express, & MongoDB**
