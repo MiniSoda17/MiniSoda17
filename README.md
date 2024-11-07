@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
-<h3 align="center">Academic Tutor in Computer Science @ UQ</h3>
+<h3 align="center">Bachelor of Computer Science & Psychology @ The University of Queensland</h3>
 
 - 🔭 I’m currently working on **my start up, 'Mewnie'**
 
