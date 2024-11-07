@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
 <h3 align="center">Bachelor of Computer Science & Psychology @ The University of Queensland</h3>
 
-- 🔭 I’m and upcoming Software Engineer Intern @ **Suncorp**
+- 🔭 I’m an upcoming Software Engineer Intern @ **Suncorp**
 
 - 🌱 I’m currently working on **my start-up, Mewnie**
 
