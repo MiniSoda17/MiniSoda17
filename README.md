@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
 <h3 align="center">Bachelor of Computer Science & Psychology @ The University of Queensland</h3>
 
-- 🔭 I’m an undergraduate Software Engineer @ **Suncorp Group**
+- 🔭 I’m an Indergraduate Software Engineer @ **Suncorp Group**
 
 - 🌱 I’m currently in my final year of university, with a graduate date of **November, 2025**
 
