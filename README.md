@@ -3,11 +3,11 @@
 
 - 🔭 I’m an undergraduate Software Engineer @ **Suncorp Group**
 
-- 🌱 I’m currently in my final year of university, with a graduate of **November, 2025**
+- 🌱 I’m currently in my final year of university, with a graduate date of **November, 2025**
 
 - 📫 How to reach me **isaac.arli@gmail.com**
 
-- ⚡ Fun fact **I'm American :)**
+- ⚡ Fun fact **I'm an American and Australian citizen :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
