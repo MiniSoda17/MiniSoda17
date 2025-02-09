@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
 <h3 align="center">Bachelor of Computer Science & Psychology @ The University of Queensland</h3>
 
-- 🔭 I’m an upcoming Software Engineer Intern @ **Suncorp**
+- 🔭 I’m an undergraduate Software Engineer @ **Suncorp Group**
 
-- 🌱 I’m currently working on **my start-up, Mewnie**
+- 🌱 I’m currently in my final year of university, with a graduate of **November, 2025**
 
 - 📫 How to reach me **isaac.arli@gmail.com**
 
