@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
 <h3 align="center">Bachelor of Computer Science & Psychology @ The University of Queensland</h3>
 
-- 🔭 I’m working as a Software Engineer Intern @ **Golden Gate Ventures** in Singapore right now! 
+- 🔭 I’m working as a Software Engineer @ **Golden Gate Ventures** in Singapore right now! 
 
 - 🌱 I’m in my final year of university, with a graduate date of **November, 2025**
 
