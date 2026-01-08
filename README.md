@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Arli</h1>
-<h3 align="center">Bachelor of Computer Science & Psychology @ The University of Queensland</h3>
+<h3 align="center">Graduated with a Bachelor of Computer Science & Psychology from The University of Queensland</h3>
 
-- 🔭 I’m working as a Software Engineer @ **Golden Gate Ventures** in Singapore right now! 
+- 🔭 I will be working as a Graduate Software Engineer @ Suncorp Group starting January 27! 
 
-- 🌱 I’m in my final year of university, with a graduate date of **November, 2025**
+- 🌱 I enjoy building software, doing startups and content creation**
 
 - 📫 How to reach me **isaac.arli@gmail.com**
 
